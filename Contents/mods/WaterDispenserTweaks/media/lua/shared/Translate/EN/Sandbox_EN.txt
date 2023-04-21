@@ -1,0 +1,15 @@
+Sandbox_EN = {
+    Sandbox_WaterDispenserTweaks = "Water Dispenser Tweaks",
+
+    Sandbox_WaterDispenserTweaks_TakeWaterSpeedMultiplier = "Take Water Speed Multiplier",
+
+    Sandbox_WaterDispenserTweaks_WaterJugEmptyWeight = "Empty Water Jug - Weight",
+
+    Sandbox_WaterDispenserTweaks_WaterJugWaterFullWeight = "Water Jug with Water - Weight",
+
+    Sandbox_WaterDispenserTweaks_WaterJugWaterFullCapacity = "Water Jug with Water - Capacity",
+
+    Sandbox_WaterDispenserTweaks_WaterJugPetrolFullWeight = "Water Jug with Gas - Weight",
+
+    Sandbox_WaterDispenserTweaks_WaterJugPetrolFullCapacity = "Water Jug with Gas - Capacity",
+}

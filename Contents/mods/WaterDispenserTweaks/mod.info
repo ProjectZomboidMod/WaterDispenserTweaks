@@ -1,0 +1,6 @@
+name=Water Dispenser Tweaks
+id=WaterDispenserTweaks
+description=
+poster=poster1.png
+poster=poster2.png
+require=WaterDispenser

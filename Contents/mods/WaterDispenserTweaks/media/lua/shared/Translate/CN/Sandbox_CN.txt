@@ -1,0 +1,15 @@
+Sandbox_CN = {
+    Sandbox_WaterDispenserTweaks = "饮水机调整",
+
+    Sandbox_WaterDispenserTweaks_TakeWaterSpeedMultiplier = "取水速度倍率",
+
+    Sandbox_WaterDispenserTweaks_WaterJugEmptyWeight = "饮水桶(空) - 重量",
+
+    Sandbox_WaterDispenserTweaks_WaterJugWaterFullWeight = "饮水桶(水) - 重量",
+
+    Sandbox_WaterDispenserTweaks_WaterJugWaterFullCapacity = "饮水桶(水) - 储水量",
+
+    Sandbox_WaterDispenserTweaks_WaterJugPetrolFullWeight = "饮水桶(汽油) - 重量",
+
+    Sandbox_WaterDispenserTweaks_WaterJugPetrolFullCapacity = "饮水桶(汽油) - 储油量",
+}

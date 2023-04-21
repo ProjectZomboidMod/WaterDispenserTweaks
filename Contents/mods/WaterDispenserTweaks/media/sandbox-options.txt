@@ -1,0 +1,49 @@
+VERSION = 1,
+
+option WaterDispenserTweaks.TakeWaterSpeedMultiplier
+{
+	type = double, default = 5,
+	min = 1, max = 100,
+	page = WaterDispenserTweaks,
+	translation = WaterDispenserTweaks_TakeWaterSpeedMultiplier,
+}
+
+option WaterDispenserTweaks.WaterJugEmptyWeight
+{
+	type = double, default = 1,
+	min = 0, max = 40,
+	page = WaterDispenserTweaks,
+	translation = WaterDispenserTweaks_WaterJugEmptyWeight,
+}
+
+option WaterDispenserTweaks.WaterJugWaterFullWeight
+{
+	type = double, default = 20,
+	min = 0, max = 40,
+	page = WaterDispenserTweaks,
+	translation = WaterDispenserTweaks_WaterJugWaterFullWeight,
+}
+
+option WaterDispenserTweaks.WaterJugWaterFullCapacity
+{
+	type = integer, default = 250,
+	min = 1, max = 2500,
+	page = WaterDispenserTweaks,
+	translation = WaterDispenserTweaks_WaterJugWaterFullCapacity,
+}
+
+option WaterDispenserTweaks.WaterJugPetrolFullWeight
+{
+	type = double, default = 15,
+	min = 0, max = 40,
+	page = WaterDispenserTweaks,
+	translation = WaterDispenserTweaks_WaterJugPetrolFullWeight,
+}
+
+option WaterDispenserTweaks.WaterJugPetrolFullCapacity
+{
+	type = integer, default = 25,
+	min = 1, max = 1000,
+	page = WaterDispenserTweaks,
+	translation = WaterDispenserTweaks_WaterJugPetrolFullCapacity,
+}
